@@ -7,7 +7,7 @@
 # Frameworks
 
 # OS
-![Windows](https://icon-library.com/images/windows-10-icon-downloads/windows-10-icon-downloads-19.jpg)
+![Windows](https://icons-for-free.com/iconfiles/svg/0/windows+icon-1320195564378696522.svg)
 
 <!---
 
