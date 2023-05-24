@@ -1,4 +1,12 @@
-# Merhaba
+# Hi, I’m @EkojeaNx
+
+# Languages
+
+# Database
+
+# Frameworks
+
+# OS
 
 <!---
 
