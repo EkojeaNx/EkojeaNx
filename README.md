@@ -7,7 +7,7 @@
 # Frameworks
 
 # OS
-![Windows](https://icons.iconarchive.com/icons/itzikgur/my-seven/48/Programs-Windows-icon.png)
+![Windows](https://icons.iconarchive.com/icons/icons8/windows-8/48/Systems-Windows-8-icon.png)
 
 <!---
 
