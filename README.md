@@ -1,15 +1,16 @@
 # Hi, I’m Türkeş Ekrem 👋
 
-![Custom badge](https://img.shields.io/endpoint?color=black&logo=ORACLE&style=for-the-badge&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fe1%2FOracle_Corporation_logo.svg)
----
-![Custom badge](https://img.shields.io/endpoint?color=black&logo=ORACLE&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fe1%2FOracle_Corporation_logo.svg)
-
 # Languages
 ![JAVA](https://camo.githubusercontent.com/7cd33764f27334b779d374b1afdb61b4a8733c1a099490aa45a1770091de2941/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b)
 ![C#](https://camo.githubusercontent.com/bbae65b6de4a3ba26fbeaf00e347900385400dcd092e8b4e0f795853d24a24e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
 ![HTML5](https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 
 # Database
+![Blogger](https://img.shields.io/badge/oracle-9F1D20?style=for-the-badge&logo=oracle&logoColor=white)
+![Blogger](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Blogger](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+-------
 ![PostgreSql](https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
 ![MySql](https://camo.githubusercontent.com/988b23566a8e239f9717abbed64d36834115c8a8c7082a71c358e04f47f8398c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
 
