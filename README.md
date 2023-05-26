@@ -1,6 +1,7 @@
 # Hi, I’m Türkeş Ekrem 👋
 
 
+![Custom badge](https://img.shields.io/endpoint?color=black&logo=ORACLE&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fe1%2FOracle_Corporation_logo.svg)
 
 # Languages
 ![JAVA](https://camo.githubusercontent.com/7cd33764f27334b779d374b1afdb61b4a8733c1a099490aa45a1770091de2941/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b)
