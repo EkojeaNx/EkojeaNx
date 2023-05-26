@@ -1,32 +1,43 @@
-# Hi, I’m Türkeş Ekrem 👋
+# <center>Hi, I’m Türkeş Ekrem 👋</center>
 
 # Languages
-![Java](https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black)
-![C#](https://img.shields.io/badge/csharp-000000?style=for-the-badge&logo=csharp&logoColor=White)
+![JAVA](https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk&logoColor=000000)
+![C#](https://img.shields.io/badge/CSHARP-000000?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-[![HTML5](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://cbde9c3c-877b-43fe-9b68-bad376950f10.filesusr.com/ugd/932824_33016a27ce194096a568df4010651438.pdf)
+![MarkDown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 # Database
-![Blogger](https://img.shields.io/badge/oracle-9F1D20?style=for-the-badge&logo=oracle&logoColor=white)
-![Blogger](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Blogger](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Sql Server](https://img.shields.io/badge/MicroSoftSqlServer-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 # Frameworks
+![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 # Tools
+![Visual Studio Code](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostMan](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # OS
+![Windows](https://img.shields.io/badge/windows-000000?style=for-the-badge&logo=windows&logoColor=white)
+
+
 
 # Contact
-[![LinkedIn](https://camo.githubusercontent.com/8bb7c1de40aadb0d8eede2add7716932344b30235088d239831fe0e884de8f82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/t%C3%BCrke%C5%9F-ekrem-%C5%9Fent%C3%BCrk-6aa8b3202/)
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t%C3%BCrke%C5%9F-ekrem-%C5%9Fent%C3%BCrk-6aa8b3202/)
 
 <!---
+icon atma
+![Blogger](https://img.shields.io/badge/metin-metin rengi?style=for-the-badge(still)&logo=(logo)&logoColor=white(logo rengi))
+--->
+
+
+
+<!--- Eski Readme.md
 
 - 👋 Hi, I’m @EkojeaNx
 - 👀 I’m interested in JAVA
