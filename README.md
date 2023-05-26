@@ -1,6 +1,7 @@
 # Hi, I’m Türkeş Ekrem 👋
 
-
+![Custom badge](https://img.shields.io/endpoint?color=black&logo=ORACLE&style=for-the-badge&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fe1%2FOracle_Corporation_logo.svg)
+---
 ![Custom badge](https://img.shields.io/endpoint?color=black&logo=ORACLE&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fe1%2FOracle_Corporation_logo.svg)
 
 # Languages
