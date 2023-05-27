@@ -27,6 +27,22 @@ I am an aspiring computer programmer.
 # OS
 ![Windows](https://img.shields.io/badge/windows-000000?style=for-the-badge&logo=windows&logoColor=white)
 
+# Certificate
+
+* Java
+  * [İleri Seviye Java](https://cbde9c3c-877b-43fe-9b68-bad376950f10.filesusr.com/ugd/932824_966488c6b70947128a7f4dd2a07f9305.pdf)
+  * [Java ile Programlamaya Giriş](https://cbde9c3c-877b-43fe-9b68-bad376950f10.filesusr.com/ugd/932824_49e57c207f5340bd90dffb13136e1797.pdf)
+* C#
+  * [C#](https://cbde9c3c-877b-43fe-9b68-bad376950f10.filesusr.com/ugd/932824_1af806aea7c24ece878bde9350a7d553.pdf)
+* SQL
+  * [Uygulamalarla SQL Öğreniyorum](https://cbde9c3c-877b-43fe-9b68-bad376950f10.filesusr.com/ugd/932824_4dc435f24e2641859eb22c4864cc0664.pdf)
+* Other
+  * [HTML5 ile Web Geliştirme](https://cbde9c3c-877b-43fe-9b68-bad376950f10.filesusr.com/ugd/932824_33016a27ce194096a568df4010651438.pdf)
+  * [Bilişim Hukuku](https://cbde9c3c-877b-43fe-9b68-bad376950f10.filesusr.com/ugd/932824_b33d1562c96e49cdba885f9d5c969c63.pdf)
+  * [Bilgi Teknolojilerine Giriş](https://cbde9c3c-877b-43fe-9b68-bad376950f10.filesusr.com/ugd/932824_10f37741dfbe49a18f1ca2a555d78661.pdf)
+  * [Uygulamalı Girişimcilik Eğitimi]()
+
+  
 
 
 # Contact
