@@ -1,4 +1,7 @@
-# <center>Hi, I’m Türkeş Ekrem 👋</center>
+# Hello 👋
+Welcome to my page!
+I’m Türkeş Ekrem
+I am an aspiring computer programmer.
 
 # Languages
 ![JAVA](https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk&logoColor=000000)
