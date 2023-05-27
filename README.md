@@ -1,7 +1,5 @@
 # Hello 👋
-Welcome to my page!
-I’m Türkeş Ekrem
-I am an aspiring computer programmer.
+Welcome to my page!  I’m Türkeş Ekrem Şentürk  I am an aspiring computer programmer.
 
 # Languages
 ![JAVA](https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk&logoColor=000000)
