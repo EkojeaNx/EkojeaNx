@@ -30,6 +30,7 @@ I am an aspiring computer programmer.
 # Certificate
 
 * Java
+  * [Başlangıç Seviye Java ile Backend Web Development Patikası](https://academy.patika.dev/tr/certificates/a2273b76)
   * [İleri Seviye Java](https://cbde9c3c-877b-43fe-9b68-bad376950f10.filesusr.com/ugd/932824_966488c6b70947128a7f4dd2a07f9305.pdf)
   * [Java ile Programlamaya Giriş](https://cbde9c3c-877b-43fe-9b68-bad376950f10.filesusr.com/ugd/932824_49e57c207f5340bd90dffb13136e1797.pdf)
 * C#
